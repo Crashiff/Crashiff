@@ -7,5 +7,5 @@
 - ⚡ Fun fact: Unity
 
 ## Visit my web page:
-### [Crashiff.github.io]([https://www.google.com](https://crashiff.github.io/) "My personal web page")
+### [Crashiff.github.io](https://crashiff.github.io/ "My personal web page")
 
